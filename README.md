@@ -1,5 +1,5 @@
 ### Hi there, I am Jemin Kachhadiya! 👋
-I am a software Engineer with 1.5+ years professional experience of python, applied machine learning and data science principles to real-world problems to cater to  business needs. Saving 100 hours of code review work per week by development of script scanning tool and disbuted the executable version to the team of 100 engineers. I am open to new and exciting career opportunities.
+I am a software Engineer with professional experience of python, applied machine learning and data science principles to real-world problems to cater to  business needs. Saving 100 hours of code review work per week by development of script scanning tool and disbuted the executable version to the team of 100 engineers. I am open to new and exciting career opportunities.
 
 - 🔭 I’m currently working on Remote Surveillance system (Graduate Research Assistant)
 - 🌱 I’m currently learning Data Science using R (Professional Certifiacate Course)
