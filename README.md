@@ -1,8 +1,8 @@
 ### Hi there, I am Jemin Kachhadiya! 👋
-I am a software Engineer with professional experience of python, applied machine learning and data science principles to real-world problems to cater to  business needs. Saving 100 hours of work per week by development of script scanning tool and distributed the executable version to the team of 120 engineers. I am open to new and exciting career opportunities.
+Innovative Automation / AI Engineer and Data Scientist specializing in AI-powered solutions. Expert in computer vision, deep learning, and data-driven automation. Proven track record of optimizing processes, reducing manual efforts by 95%, and improving GPU efficiency by 15%. Passionate about leveraging cutting-edge AI to solve real-world challenges across industries.
 
-- 🔭 I’m currently working on Remote Surveillance system (Graduate Research Assistant)
-- 🌱 I’m currently learning Masters in Computer Science(AI & ML) and Data Science using R (Professional Certifiacate Course)
+- 🔭 Remote Surveillance system (Graduate Research Assistant)
+- 🌱 Masters in Computer Science(AI & ML) and Data Science using R (Professional Certifiacate Course)
 - 😍 DevFolio [Website](https://jeminkachhadiya.github.io/)
 - 📫 How to reach me: jemin.b.kachhadiya@gmail.com or [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jemin-kachhadiya-087212143/)<br>
 
